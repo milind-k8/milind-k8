@@ -39,7 +39,7 @@ Currently, I work with modern JavaScript and Python ecosystems to build SaaS pro
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,java" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,cpp" />
 </p>
 
 ### Frontend
@@ -57,7 +57,7 @@ Currently, I work with modern JavaScript and Python ecosystems to build SaaS pro
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,redis,supabase,mongodb" />
+<img src="https://skillicons.dev/icons?i=postgres,redis,supabase" />
 </p>
 
 ### Cloud & DevOps
