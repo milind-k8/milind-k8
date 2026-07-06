@@ -39,7 +39,7 @@ Currently, I work with modern JavaScript and Python ecosystems to build SaaS pro
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=ts,js,python,cpp" />
+<img src="https://skillicons.dev/icons?i=ts,js,python" />
 </p>
 
 ### Frontend
