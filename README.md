@@ -6,8 +6,8 @@ Building scalable products from idea to production.
 </p>
 
 <p align="center">
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+<a href="https://github.com/milind-k8">
+<img src="https://komarev.com/ghpvc/?username=milind-k8&label=Profile%20Views&color=0e75b6&style=flat" />
 </a>
 </p>
 
@@ -78,15 +78,15 @@ Currently, I work with modern JavaScript and Python ecosystems to build SaaS pro
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=milind-k8&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milind-k8&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=milind-k8&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -96,7 +96,7 @@ Currently, I work with modern JavaScript and Python ecosystems to build SaaS pro
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=milind-k8&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -118,15 +118,12 @@ Currently, I work with modern JavaScript and Python ecosystems to build SaaS pro
 # 🤝 Let's Connect
 
 <p>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/milind-kate-53a05b1b9">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="https://twitter.com/YOUR_HANDLE">
-<img src="https://skillicons.dev/icons?i=twitter" height="45"/>
-</a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:milindkate3@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 </p>
